@@ -3,7 +3,7 @@
 
 void main()
 {
-    FILE *arq = fopen("arquivos/arquivo.txt", "rb");
+    FILE *arq = fopen("arquivos/arquivo.txt", "w+b");
 
     if (arq == NULL)
     {
