@@ -2,7 +2,6 @@
 
 [![YouTube](https://img.shields.io/badge/Assistir%20no-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/EIGAc5mdPpE)
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue?style=for-the-badge&logo=c&logoColor=white)
-![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
 
 ---
 
@@ -25,28 +24,20 @@ O conteúdo está estruturado de forma progressiva para facilitar o aprendizado.
 
 -   **Módulo 01: Compilador, Bibliotecas, Entrada/Saída e Operadores**
     -   Conceitos iniciais, estrutura de um programa em C, variáveis, `printf`, `scanf` e todos os tipos de operadores.
-
 -   **Módulo 02: Estruturas de Controle**
     -   Tomada de decisões com `if/else`, `switch/case` e laços de repetição com `while`, `do/while` e `for`.
-
 -   **Módulo 03: Arrays e Strings**
     -   Trabalhando com vetores (arrays de uma dimensão), matrizes (arrays multidimensionais) e manipulação de texto (strings).
-
 -   **Módulo 04: Registros (Structs)**
     -   Criação de tipos de dados personalizados para agrupar diferentes informações em uma única variável.
-
 -   **Módulo 05: Funções**
     -   Modularização de código, passagem de parâmetros, retorno de valores e escopo de variáveis.
-
 -   **Módulo 06: Funções Recursivas**
     -   Entendendo como criar funções que chamam a si mesmas para resolver problemas complexos de forma elegante.
-
 -   **Módulo 07: Ponteiros**
     -   Um mergulho profundo no conceito mais poderoso do C: o que são ponteiros, aritmética de ponteiros e passagem de parâmetros por referência.
-
 -   **Módulo 08: Alocação Dinâmica de Memória**
     -   Gerenciamento de memória em tempo de execução com `malloc`, `calloc`, `realloc` e `free`.
-
 -   **Módulo 09: Persistência de Dados em Arquivos**
     -   Como ler e escrever informações em arquivos de texto e binários para que seus dados não se percam.
 
@@ -77,7 +68,7 @@ gcc main.c -o meu_programa
 
 ## 👨‍🏫 Sobre o Autor
 
-Oi, eu sou o Caio! Sinta-se à vontade para se conectar comigo em outras plataformas.
+Oi, eu sou o Caio! Sinta-se à vontade para entrar em contato através de outras plataformas.
 
 <div>
 <a href="https://www.youtube.com/@fromcaio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
