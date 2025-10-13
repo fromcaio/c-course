@@ -1,0 +1,7 @@
+| Função | Complexidade (O) | Comentários sobre a Ordem O |
+| :--- | :--- | :--- |
+| `criaLista` | O(n) | Neste caso, vamos considerar como principal operação a alocação de memória. Analisando então a complexidade assintótica de espaço, onde 'n' é o tamanho máximo da lista e o que determina a complexidade de espaço da função. |
+| `verificaListaVazia` | O(1) | Nesta função, realizamos apenas uma comparação, verificando se o primeiro e último índice possuem o mesmo valor. Portanto, independentemente do tamanho da lista, teremos uma função de complexidade constante. |
+| `insereNovaPessoaNoFinal` | O(1) | Aqui, realizamos uma comparação para verificar se a lista está vazia, seguida de duas atribuições: uma inserindo a nova pessoa e outra atualizando o valor do último índice da lista. Independentemente de qual operação consideramos mais relevante, teremos uma função de complexidade constante. |
+| `chamaProximaPessoa` | O(n) | Nesta função, teremos duas iterações: uma do primeiro ao último elemento da lista e outra do elemento removido até o último elemento. O número de iterações a ser realizado vai depender da quantidade de pessoas (n) armazenadas na lista. Portanto, temos uma complexidade assintótica O(n). |
+| `imprimeLista` | O(n) | O número de impressões a serem realizadas depende da quantidade (n) de pessoas armazenadas na lista. |
