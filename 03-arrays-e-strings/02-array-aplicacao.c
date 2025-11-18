@@ -8,8 +8,8 @@ void main()
     for (int i = 0; i < qt; i++)
     {
         printf("\nDigite um numero que vai ser armazenado na posicao %d: \n", i);
-        scanf(" %f", &array[qt]);
-        media += array[qt];
+        scanf(" %f", &array[i]);
+        media += array[i];
         // media = media + array[i];
     }
     media = media / qt;
