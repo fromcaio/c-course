@@ -68,12 +68,9 @@ gcc main.c -o meu_programa
 
 ## 👨‍🏫 Sobre o Autor
 
-Oi, eu sou o Caio! Sinta-se à vontade para entrar em contato através de outras plataformas.
+Oi! Eu sou o Caio. 👋
+Se você quiser acompanhar meu trabalho, acessar minhas redes sociais, entrar no nosso servidor do Discord ou em contato, mantenho tudo organizado e sempre atualizado no link abaixo:
 
-<div>
-<a href="https://www.youtube.com/@fromcaio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
-<a href="https://instagram.com/fromcaio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/bp9vf9s4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:fromcaio.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fromcaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+👉 **[https://fromcaio.com/?section=socials](https://fromcaio.com/?section=socials)**
+
+Acesse por lá e fique à vontade para me chamar! 🚀
